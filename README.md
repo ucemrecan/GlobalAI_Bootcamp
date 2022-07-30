@@ -1,2 +1,2 @@
 # GlobalAI_Bootcamp
-Global AI Bootcamp Projesi
+Kaggle'da bulunan "Netflix Original Films & IMDB Scores" veri seti üzerinden veri analizi ve veri görselleştirmesi yapılmıştır. 
