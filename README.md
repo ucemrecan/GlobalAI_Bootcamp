@@ -1,2 +1,3 @@
 # GlobalAI_Bootcamp
-Kaggle'da bulunan "Netflix Original Films & IMDB Scores" veri seti üzerinden veri analizi ve veri görselleştirmesi yapılmıştır. 
+Data Analysis and Visualization on Kaggle
+Dataset: https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores
